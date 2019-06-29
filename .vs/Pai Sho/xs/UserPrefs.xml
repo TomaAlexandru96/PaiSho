@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B1227BAF-366D-B94A-4350-B5CE4975D6BA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pieces/Piece.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scripts/TileManagement.cs" Line="12" Column="43" />
+      <File FileName="Assets/Scripts/InputController.cs" Line="89" Column="42" />
+      <File FileName="Assets/Scripts/Game.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
