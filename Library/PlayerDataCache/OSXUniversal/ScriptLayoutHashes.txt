@@ -170,3 +170,4 @@ c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 e297b34025553f9b559688657fb2678f Assembly-CSharp.dll:.Boat
 de6711c9c49583fe8bfe18725695f529 Assembly-CSharp.dll:.TileManagement
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Init

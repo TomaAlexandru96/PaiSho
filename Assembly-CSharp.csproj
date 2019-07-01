@@ -60,22 +60,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Game.cs" />
-    <Compile Include="Assets\Scripts\InputController.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Boat.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Chrysanthemum.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Jasmine.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Knotweed.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Lily.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Orchid.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Piece.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Rhododendron.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Rock.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Rose.cs" />
-    <Compile Include="Assets\Scripts\Pieces\Wheel.cs" />
-    <Compile Include="Assets\Scripts\Pieces\White Jade.cs" />
-    <Compile Include="Assets\Scripts\Pieces\White Lotus.cs" />
-    <Compile Include="Assets\Scripts\TileManagement.cs" />
+    <Compile Include="Assets\Scripts\Model\Game.cs" />
+    <Compile Include="Assets\Scripts\Model\GameState.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Boat.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Chrysanthemum.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Jasmine.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Knotweed.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Lily.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Orchid.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Piece.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Rhododendron.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Rock.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Rose.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\Wheel.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\White Jade.cs" />
+    <Compile Include="Assets\Scripts\Model\Pieces\White Lotus.cs" />
+    <Compile Include="Assets\Scripts\UI\UIInfoDisplay.cs" />
+    <Compile Include="Assets\Scripts\UI\UIInfoDisplayPiece.cs" />
+    <Compile Include="Assets\Scripts\UI\UIPiece.cs" />
+    <Compile Include="Assets\Scripts\UIControl\GameController.cs" />
+    <Compile Include="Assets\Scripts\UIControl\TileController.cs" />
+    <Compile Include="Assets\Scripts\Utils\Colour.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/alexandrutoma/Programming/Pai Sho/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
